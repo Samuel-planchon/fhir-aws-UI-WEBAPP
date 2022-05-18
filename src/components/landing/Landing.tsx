@@ -1,5 +1,5 @@
 /*
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Samuel PLANCHON and William BERNHARD UoP
 SPDX-License-Identifier: Apache-2.0
 */
 import {
@@ -43,7 +43,7 @@ export const Landing: React.FC<{
           >
             <Box fontWeight="light" padding={{ top: "xs" }}>
               <span className="custom-home__category">
-                Electronic Healthcare Information
+                Fast Healthcare Interoperability Resources Server
               </span>
             </Box>
             <div className="custom-home__header-title">
@@ -54,7 +54,7 @@ export const Landing: React.FC<{
                 fontSize="display-l"
                 color="inherit"
               >
-                FHIR Works Demo
+                User Interface
               </Box>
               <Box
                 fontWeight="light"
@@ -62,15 +62,13 @@ export const Landing: React.FC<{
                 fontSize="display-l"
                 color="inherit"
               >
-                Manage the exchange of healthcare information electronically
+               The solution for using an FHIR server with a user interface
               </Box>
               <Box variant="p" fontWeight="light">
                 <span className="custom-home__header-sub-title">
-                  FHIR Works on AWS is a framework to deploy a FHIR server on
-                  AWS. The power of this framework is being able to customize
-                  and add in additional FHIR functionality for your unique
-                  use-case. This website is an example front end client of the
-                  FHIR server.
+                  The objective behind the researchs on this server is to see if the performance of an 
+                  FHIR server would be faster than the use of the CQL (Cliniqual Quality Language).
+                  So manage the exchange of healthcare information electronically as quickly as possible.
                 </span>
               </Box>
             </div>

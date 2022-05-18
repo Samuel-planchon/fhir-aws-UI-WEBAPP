@@ -1,5 +1,5 @@
 /*
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Samuel PLANCHON William BERNHARD
 SPDX-License-Identifier: Apache-2.0
 */
 import SideNavigation, {
@@ -29,13 +29,13 @@ export const navItems: SideNavigationProps.Section[] = [
     items: [
       {
         type: "link",
-        text: "UI Github",
-        href: "https://github.com/awslabs/fhir-works-on-aws-ui",
+        text: "Web App Github",
+        href: "https://github.com/Samuel-planchon/fhir-aws-UI-WEBAPP",
       },
       {
         type: "link",
-        text: "FHIR Server Github",
-        href: "https://github.com/awslabs/fhir-works-on-aws-deployment",
+        text: "Android App github",
+        href: "https://github.com/Samuel-planchon/FHIR_SERVER_UI_ANDROID",
       },
     ],
   },
