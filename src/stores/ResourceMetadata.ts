@@ -1,5 +1,5 @@
 /*
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Samuel PLANCHON William BERNHARD
 SPDX-License-Identifier: Apache-2.0
 */
 export default interface ResourceMetadata {
