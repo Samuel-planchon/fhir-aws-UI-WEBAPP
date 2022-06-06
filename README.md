@@ -10,8 +10,7 @@ William BERNHARD
 UoP
 
 ## Installation
-To get started, we will need a FHIR Server for the UI to connect to. We will need the FHIR Server to have `CORS` enabled so that the UI can connect to it. You can spin up your own FHIR Server by deploying the FHIR Works on AWS code on the [enable-cors](https://github.com/awslabs/fhir-works-on-aws-deployment/tree/enable-cors) branch.
-Follow the steps below to get started
+To get started, we will need a FHIR Server for the UI to connect to. We will need the FHIR Server to have `CORS` enabled so that the UI can connect to it.
 
 1. Deploy a FHIR Server with `CORS` enabled by following the instructions [here](https://github.com/awslabs/fhir-works-on-aws-deployment/tree/enable-cors)
 
